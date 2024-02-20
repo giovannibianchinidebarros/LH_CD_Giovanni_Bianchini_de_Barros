@@ -1,3 +1,4 @@
+
 # LH_CD_Giovanni_Bianchini_de_Barros
 ### Desafio Cientista de Dados - Indicium 2024
 
@@ -19,14 +20,19 @@ Por isso decidi utilizar um modelo de reconhecimento de texto (NLP) para process
 
 > Percebi uma relação entre o **número de reviews** e o **número mínimo de noites**. Imóveis com um número mínimo de noites menor tendem a ter mais reviews, o que faz sentido, se pensar que esses imóveis são alugados com mais frequência. Seria interessante explorar estratégias de marketing focando nisso.
 
+> A análise e códigos estão no arquivo: [LH_CD_Giovanni_Bianchini_de_Barros.ipynb](https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/LH_CD_Giovanni_Bianchini_de_Barros.ipynb)
+
 #### Modelo escolhido:
 > Testei diferentes modelos de regressão, incluindo Linear, Polinomial, Support Vector, Decision Tree e Random Forest Regression, avaliando todos com base no R2 Score. Nos testes, o modelo de **Random Forest Regression** demonstrou ser o mais eficaz.
 
->  O modelo criado chama-se **LH_CD_Giovanni_Bianchini_de_Barros.pkl** e está disponível em: 
-https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/LH_CD_Giovanni_Bianchini_de_Barros.pkl
+>  O modelo criado está disponível neste repositório:  [LH_CD_Giovanni_Bianchini_de_Barros.pkl](https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/LH_CD_Giovanni_Bianchini_de_Barros.pkl)
+
 
 #### Requisitos:
-> O **Arquivo de requisitos** com todos os pacotes utilizados e suas versões chama-se **requirements.txt** e está disponível no link: https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/requirements.txt
+> **Arquivo de requisitos** com todos os pacotes utilizados e suas versões: [requirements.txt](https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/requirements.txt
+)
+
+---
 
 #### Testes:
 
@@ -84,6 +90,8 @@ print(prediction)
 
 O mesmo código para teste se encontra em:
 
-https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/model_TESTER.ipynb
+[model_TESTER.ipynb](https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/model_TESTER.ipynb)
 
-https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/model_TESTER.py
+[model_TESTER.py](https://github.com/giovannibianchinidebarros/LH_CD_Giovanni_Bianchini_de_Barros/blob/main/model_TESTER.py)
+
+---
