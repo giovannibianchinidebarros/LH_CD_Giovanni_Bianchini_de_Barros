@@ -1,9 +1,6 @@
-
 # LH_CD_Giovanni_Bianchini_de_Barros
+### Desafio Cientista de Dados - Indicium 2024
 
-#### Desafio Cientista de Dados - Indicium 2024
-
----
 
 Este é meu projeto para o Processo Seletivo do Programa **Lighthouse** da Indicium.
 
